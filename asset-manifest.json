@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wittyaatri.github.io/witty-mvp/static/css/main.85f94908.css",
+    "main.js": "/wittyaatri.github.io/witty-mvp/static/js/main.eaf025d9.js",
+    "static/js/787.ea00a9c3.chunk.js": "/wittyaatri.github.io/witty-mvp/static/js/787.ea00a9c3.chunk.js",
+    "static/media/backgroundSearch.png": "/wittyaatri.github.io/witty-mvp/static/media/backgroundSearch.c4d097fd34825b8a13ec.png",
+    "static/media/wittylogo.png": "/wittyaatri.github.io/witty-mvp/static/media/wittylogo.61b6dc39a2a70765c2b1.png",
+    "index.html": "/wittyaatri.github.io/witty-mvp/index.html",
+    "main.85f94908.css.map": "/wittyaatri.github.io/witty-mvp/static/css/main.85f94908.css.map",
+    "main.eaf025d9.js.map": "/wittyaatri.github.io/witty-mvp/static/js/main.eaf025d9.js.map",
+    "787.ea00a9c3.chunk.js.map": "/wittyaatri.github.io/witty-mvp/static/js/787.ea00a9c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f94908.css",
+    "static/js/main.eaf025d9.js"
+  ]
+}
