@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/witty-mvp/static/css/main.70a7fb2b.css",
-    "main.js": "/witty-mvp/static/js/main.4a3573f6.js",
+    "main.js": "/witty-mvp/static/js/main.b20300ae.js",
     "static/js/787.ea00a9c3.chunk.js": "/witty-mvp/static/js/787.ea00a9c3.chunk.js",
     "static/media/team-work.png": "/witty-mvp/static/media/team-work.98b525619c93e884cc3b.png",
     "static/media/body-image.png": "/witty-mvp/static/media/body-image.8d7afc86578383ca2a85.png",
     "static/media/side-image.png": "/witty-mvp/static/media/side-image.1fafa966d730b8b148f8.png",
-    "static/media/wittylogo.png": "/witty-mvp/static/media/wittylogo.61b6dc39a2a70765c2b1.png",
+    "static/media/wittylogo.png": "/witty-mvp/static/media/wittylogo.371fa33b76061f86af7b.png",
     "index.html": "/witty-mvp/index.html",
     "main.70a7fb2b.css.map": "/witty-mvp/static/css/main.70a7fb2b.css.map",
-    "main.4a3573f6.js.map": "/witty-mvp/static/js/main.4a3573f6.js.map",
+    "main.b20300ae.js.map": "/witty-mvp/static/js/main.b20300ae.js.map",
     "787.ea00a9c3.chunk.js.map": "/witty-mvp/static/js/787.ea00a9c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70a7fb2b.css",
-    "static/js/main.4a3573f6.js"
+    "static/js/main.b20300ae.js"
   ]
 }
