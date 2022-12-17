@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import wittylogo from "../../assets/wittylogo.png";
+import wittylogo from "../../assets/wittylogo.jpeg";
 import "./Navbar.css"
 
 const Navbar = () => {
@@ -8,9 +8,10 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-light topNav">
         <div className="container-fluid mt-1 mb-1">
-          <div className="ms-3">
+          <div className="wittyHome ms-3">
             <Link to="/">
               <img className="wittyLogo" src={wittylogo}></img>
+              <span className="wittyLabel">Wittyatri</span>
             </Link>
           </div>
           <button
