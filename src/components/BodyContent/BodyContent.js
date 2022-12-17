@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import imgTwo from "../../assets/body-image.png";
 import imgThree from "../../assets/team-work.png";
 import imgFour from "../../assets/body-image.png"
+import imgFive from "../../assets/marketPlace.png"
 import "./BodyContent.css";
 
 const BodyContent = () => {
@@ -30,7 +31,7 @@ const BodyContent = () => {
               </div>
             </div>
           </div>
-          <div className="col-lg-6 col-md-6 col-sm-12 mb-2 d-flex align-items-center body-image-container">
+          <div className="col-lg-6 col-md-6 col-sm-12 mb-2 body-image-container">
             <img
               className="body-image"
               src={imgTwo}
@@ -94,7 +95,7 @@ const BodyContent = () => {
           <div className="col-lg-6 col-md-6 col-sm-12 mb-2 d-flex align-items-center body-image-container">
             <img
               className="body-image"
-              src={imgFour}
+              src={imgFive}
               alt="sideImage"
             ></img>
           </div>
