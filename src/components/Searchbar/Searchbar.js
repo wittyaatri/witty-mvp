@@ -1,6 +1,7 @@
 import React from "react";
 import "./Searchbar.css";
 import searchbarBg from "../../assets/backgroundSearch.png";
+// hi hello how are you
 
 function Searchbar() {
   return (
